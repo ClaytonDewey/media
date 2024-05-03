@@ -1,3 +1,4 @@
+export { default as AlbumsList } from './AlbumsList';
 export { default as Button } from './Button';
 export { default as ExpandablePanel } from './ExpandablePanel';
 export { default as Panel } from './Panel';
