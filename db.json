@@ -18,6 +18,16 @@
       "id": 10,
       "title": "Hiking Trip",
       "userId": 1
+    },
+    {
+      "id": "66b1",
+      "userId": 1,
+      "title": "Sleek Rubber Ball"
+    },
+    {
+      "id": "af14",
+      "userId": 1,
+      "title": "Ergonomic Fresh Hat"
     }
   ],
   "photos": []
